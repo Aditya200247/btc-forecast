@@ -1,3 +1,13 @@
+---
+title: BTC Forecast
+emoji: 📈
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: "1.33.0"
+app_file: app.py
+pinned: false
+---
 # BTC Forecast — AlphaI × Polaris Challenge
 
 Predicts the 95% confidence price range for BTC/USDT one hour ahead using GBM with Student-t fat tails and rolling volatility clustering.
